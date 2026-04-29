@@ -191,7 +191,11 @@ Source: Domain_23_Nuclear_Magic_Numbers_FINAL.txt
 
 ## License
 
-Open Source Physics. Zero institutional affiliation required.  
+Copyright 2025 Nicholas W. Cordova
+
+Licensed under the [Apache License, Version 2.0](LICENSE).  
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
 All data sources are publicly accessible federal datasets.  
 All constants are locked as of November 16, 2025 (rxiVerse:2602.0018).
 
